@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on some Machine Learning Projects
+- 🔭 I’m currently working as Web Developer on [afiahkost](https:\\www.afiahkost.com)
 - 🌱 I’m currently learning AI Machine Learning and Data Science Bootcamp
-- 📫 How to reach me: [Instagram](https:\\www.instagram.com/aulianto)
+- 📫 you can [Visit my LinkedIn](https://www.linkedin.com/in/andiauliyanto)
+- 😄 you can [Visit my Post here](https://www.linkedin.com/in/reant/recent-activity/all/)
+  
