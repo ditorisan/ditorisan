@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on some Machine Learning Projects
 - 🌱 I’m currently learning AI Machine Learning and Data Science Bootcamp
-- - 📫 How to reach me: [Instagram](https:\\www.instagram.com/aulianto)
+- 📫 How to reach me: [Instagram](https:\\www.instagram.com/aulianto)
