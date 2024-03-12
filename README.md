@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as Web Developer on [afiahkost](https:\\www.afiahkost.com)
 - 🌱 I’m currently learning AI Machine Learning and Data Science Bootcamp
 - 📫 you can [Visit my LinkedIn](https://www.linkedin.com/in/andiauliyanto)
-- 😄 you can [Visit my Post here](https://www.linkedin.com/in/reant/recent-activity/all/)
+- 😄 you can [Visit my Post here](https://www.linkedin.com/in/andiauliyanto/recent-activity/all/)
   
